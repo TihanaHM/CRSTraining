@@ -1,0 +1,22 @@
+{
+  "id": "8503cca9-1d0b-4976-8e79-b9ad451278dc",
+  "name": "GetAddressService",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
